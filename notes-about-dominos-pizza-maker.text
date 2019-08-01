@@ -1,0 +1,28 @@
+Pizza maker feature
+
+PAGE 1
+======================
+view coupons or select
+choose pickup or delivery
+  if delivery take address
+
+PAGE 2
+======================
+Choose Size
+  image should change size when selecting different sizes
+
+Choose Sauce
+  bbq Sauce
+  marinara Sauce (default)
+  Alfredo Sauce
+
+ability to add notes
+
+PAGE 3
+=======================
+Choose Meats
+Choose non-meats
+
+add to cart
+
+

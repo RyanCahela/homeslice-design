@@ -1,0 +1,23 @@
+Home/Landing Pag
+  Into to Home Slice
+
+Pizza Builder Page
+
+User Dashboard
+  Has order number
+  progress indicator or the order
+  Total price of order
+  Link to order status/confirmation page
+  Display user info
+  Display Past orders.
+
+Admin Dashboard
+  All current active orders
+  New Orders on top in new orders section, 
+    once marked 'in progress it's moved down to bottom of in progress section'
+  In Progress 
+    all in progress orders.
+
+
+QUESTION FOR TJ
+
